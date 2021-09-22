@@ -1,0 +1,13 @@
+﻿<Window x:Class="MemoryWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MemoryWPF"
+        mc:Ignorable="d"
+        Title="Memory" Height="470" Width="465" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <UniformGrid x:Name="playGround" Height="445" Width=" 448" Rows="7" Columns="7" HorizontalAlignment="Left" VerticalAlignment="Top">
+
+       
+    </UniformGrid>
+</Window>
